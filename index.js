@@ -39,7 +39,7 @@ console.log("average", average);
 
 //2a. Use a loop to iterate through the array and calculate the average number of letters per name. //
 
-// Declare new var with names, then declare totalChars set to 0, then create loop then set totalChar += name[i]length, then console and then divide totalChars/names.length//
+// Declare new varible with names, then declare totalChars set to 0, then create loop then set totalChar += name[i]length, then console and then divide totalChars/names.length//
 
 let names = ["Sam", "Tommy", "Tim", "Sally", "Buck", "Bob"];
 let totalChars = 0;
